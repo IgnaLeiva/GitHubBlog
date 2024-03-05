@@ -1,0 +1,12 @@
+/* css styles */
+
+// fonts
+$font-family-sans-serif: sans-serif !default;
+
+// headings
+$presentation-heading-font: sans-serif  !default;
+$presentation-heading-color: rgb(0, 74, 111) !default;
+$presentation-heading-align: center !default;
+$h1-font-size: 1.6em !default;
+$h2-font-size: 1.3em !default;
+$h3-font-size: 1.15em !default;
